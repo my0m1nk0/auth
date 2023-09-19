@@ -1,0 +1,7 @@
+{
+  "name": "NSS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
